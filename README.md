@@ -1,5 +1,4 @@
-## Hi there 👋
-
+My name is Praveen Kumar
 <!--
 **Praveenkumar-1025/Praveenkumar-1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
