@@ -1,7 +1,7 @@
 My name is Praveen Kumar
 
 
-- 🔭 I’m currently Studing B.VOC|SDML - 3rd year
+- 🔭 B.Voc Graduate | 
 <!--
 **Praveenkumar-1025/Praveenkumar-1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
